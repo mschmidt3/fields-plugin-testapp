@@ -7,12 +7,14 @@ class Book {
     Integer pages
     Date releasedate
     String description
+    Boolean available
 
     static constraints = {
         title  nullable:false
         author nullable:true
         pages nullable:true
         releasedate nullable:true
-        description nullabe:true, widget:"textarea"
+        description nullable:true //, widget:"textarea"
+        available nullable:true
     }
 }
