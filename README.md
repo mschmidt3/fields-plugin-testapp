@@ -1,8 +1,8 @@
-teast-app for fields-plugin
+test-app for fields-plugin
 ===============================
 
-Trys to create the 'default'-  fields templates for the plugin.
-All interesion files are in grails-app/views/_fields 
+Try to create the 'default'-  fields templates for the plugin.
+All interesting files are in grails-app/views/_fields 
 
 
 Open:
